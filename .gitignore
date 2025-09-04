@@ -1,0 +1,5 @@
+# dataset 폴더 안의 모든 파일 무시
+dataset/**
+
+# 단, .gitkeep 파일은 예외로 허용
+!dataset/**/.gitkeep

@@ -1,0 +1,1 @@
+https://huggingface.co/SimianLuo/Diff-Foley/resolve/main/diff_foley_ckpt/eval_classifier.ckpt?download=true
